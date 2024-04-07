@@ -23,6 +23,8 @@ PSG Polytechnic College Management System website is an integrated web-based sol
   	Attendance tracking
   	Academic performance monitoring
   	Fee payment and financial management
+![image](https://github.com/code-phenix/PSG_PolyTech_CMS/assets/55018311/ccd2e172-29eb-4faa-8411-ef33a9cf238d)
+
 
 
 **Faculty Module**
