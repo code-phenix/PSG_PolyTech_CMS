@@ -3,7 +3,7 @@
 **INTRODUCTION**
 PSG Polytechnic College Management System website is an integrated web-based solution designed to simplify and automate various administrative tasks within the institution. It serves as a centralized hub where administrators, faculty, and students can access pertinent information, communicate effectively, and manage academic-related activities efficiently.
 
-**MODULES**
+**MODULES** - 
 **Administration Module**
   	Dashboard for comprehensive data visualization
   	Resource allocation and inventory management
