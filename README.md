@@ -5,12 +5,13 @@ PSG Polytechnic College Management System website is an integrated web-based sol
 
 **MODULES**
 **Administration Module**
-  Dashboard for comprehensive data visualization
-  Resource allocation and inventory management
-  User management and access control
-  Internal messaging system for faculty and staff through email and messages.
-  Announcements and notifications for students and parents
-  Discussion forums and collaborative spaces
+  	Dashboard for comprehensive data visualization
+  	Resource allocation and inventory management
+  	User management and access control
+  	Internal messaging system for faculty and staff through email and messages.
+  	Announcements and notifications for students and parents
+  	Discussion forums and collaborative spaces
+
 
 **Students Module**
   Enrollment and admission processes
