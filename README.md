@@ -45,4 +45,4 @@ PSG Polytechnic College Management System website is an integrated web-based sol
   XAMPP Server - https://www.apachefriends.org/download.html
 
 **MAINTAINER**
-  Siva Shunmuga Sundaram - linkedin.com/in/siva-shunmuga-sundaram
+  Siva Shunmuga Sundaram - [linkedin.com/in/siva-shunmuga-sundaram](https://www.linkedin.com/in/siva-shunmuga-sundaram/)
