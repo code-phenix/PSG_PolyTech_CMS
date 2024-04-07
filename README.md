@@ -14,18 +14,20 @@ PSG Polytechnic College Management System website is an integrated web-based sol
 
 
 **Students Module**
-  Enrollment and admission processes
-  Student profile management
-  Attendance tracking
-  Academic performance monitoring
-  Fee payment and financial management
+  	Enrollment and admission processes
+  	Student profile management
+  	Attendance tracking
+  	Academic performance monitoring
+  	Fee payment and financial management
+
 
 **Faculty Module**
-  Faculty profile management
-  Course planning and scheduling
-  Assignment and grading management
-  Communication tools for faculty-student interaction
-  Leave management
+  	Faculty profile management
+  	Course planning and scheduling
+  	Assignment and grading management
+  	Communication tools for faculty-student interaction
+  	Leave management
+
 
 **Custom Login Module**
   If Admin wants to create a form for Parents to view their child's academic performance and other activities, a new Parent Module can be created through Custom Login Module.
