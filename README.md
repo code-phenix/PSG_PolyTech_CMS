@@ -1,7 +1,10 @@
 **PSG POLYTECHNIC - COLLEGE MANAGEMENT SYSTEM**
 
 **INTRODUCTION**
-PSG Polytechnic College Management System website is an integrated web-based solution designed to simplify and automate various administrative tasks within the institution. It serves as a centralized hub where administrators, faculty, and students can access pertinent information, communicate effectively, and manage academic-related activities efficiently.
+PSG Polytechnic College Management System website is an integrated web-based solution designed to simplify and automate various administrative tasks within the institution. It serves as a centralized hub where administrators, faculty, and students can access pertinent information, communicate effectively, and manage academic-related activities efficiently. All the forms are validated inline as shown in the below screenshot.
+![6](https://github.com/code-phenix/PSG_PolyTech_CMS/assets/55018311/4af27272-f03a-4112-900b-0962da84f73f)
+
+
 
 **MODULES** - 
 **Administration Module**
@@ -11,6 +14,7 @@ PSG Polytechnic College Management System website is an integrated web-based sol
   	Internal messaging system for faculty and staff through email and messages.
   	Announcements and notifications for students and parents
   	Discussion forums and collaborative spaces
+![1](https://github.com/code-phenix/PSG_PolyTech_CMS/assets/55018311/43923790-4be7-44ed-97ab-789b892c7fa9)
 
 
 **Students Module**
@@ -27,6 +31,8 @@ PSG Polytechnic College Management System website is an integrated web-based sol
   	Assignment and grading management
   	Communication tools for faculty-student interaction
   	Leave management
+![7](https://github.com/code-phenix/PSG_PolyTech_CMS/assets/55018311/fc3a2091-846c-4530-b95c-a2b7b07022c5)
+
 
 
 **Custom Login Module**
